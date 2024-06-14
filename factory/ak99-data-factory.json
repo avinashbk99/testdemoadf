@@ -1,0 +1,9 @@
+{
+	"name": "ak99-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "493adbdc-7612-4082-8cb2-103eb2a0311a",
+		"tenantId": "611cd778-7017-475f-a2fb-a35cff9fb4d5"
+	}
+}
