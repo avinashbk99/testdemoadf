@@ -90,6 +90,10 @@
 				"     postCommands: [],",
 				"     skipDuplicateMapInputs: true,",
 				"     skipDuplicateMapOutputs: true,",
+				"     mapColumn(",
+				"          genres,",
+				"          year",
+				"     ),",
 				"     format: 'table') ~> sink1"
 			]
 		}
