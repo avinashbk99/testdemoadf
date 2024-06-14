@@ -81,6 +81,7 @@
 				"     insertable:true,",
 				"     updateable:false,",
 				"     upsertable:true,",
+				"     keys:['genres','year'],",
 				"     format: 'table',",
 				"     staged: true,",
 				"     allowCopyCommand: true,",
